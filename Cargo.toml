@@ -14,3 +14,4 @@ repository = ""
 
 [workspace.dependencies]
 axdevice_base = { path = "axdevice_base", version = "0.1"}
+
